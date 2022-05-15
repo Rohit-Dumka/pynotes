@@ -1,1 +1,3 @@
-# pynotes
+No introduction Required . Afterall Python is Python :)
+Here are some core python notes of mine (not from beginning but it works for me ).
+Will gonna update them later..........
